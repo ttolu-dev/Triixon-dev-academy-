@@ -37,7 +37,7 @@ html, body{
  
   .dest{
   background-color:rgb(255, 255, 255);
-  background-image: url("img/spp.png");
+  background-image: url("spp.png");
   background-size: cover;
   background-blend-mode: multiply;
   padding-top:40px;
